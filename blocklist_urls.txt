@@ -1,0 +1,11 @@
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://v.firebog.net/hosts/Prigent-Ads.txt
+https://v.firebog.net/hosts/Admiral.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/refs/heads/master/adservers.txt
+https://raw.githubusercontent.com/Spam404/lists/refs/heads/master/adblock-list.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://blocklistproject.github.io/Lists/ads.txt
+https://raw.githubusercontent.com/x0uid/SpotifyAdBlock/refs/heads/master/SpotifyBlocklist.txt
+https://raw.githubusercontent.com/Isaaker/Spotify-AdsList/main/Lists/standard_list.txt
+https://raw.githubusercontent.com/d3ward/toolz/refs/heads/master/src/d3host.txt
